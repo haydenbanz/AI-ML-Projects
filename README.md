@@ -4,7 +4,7 @@ Artificial intelligence (AI) is the ability of a computer or machine to mimic in
 [![Python](https://img.shields.io/static/v1?label=Python&message=3.6%2B&color=%230078D6&labelColor=%23e3e3e3&style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-blue.svg?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-blue.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
-
+![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
 
 
 
